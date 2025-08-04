@@ -26,7 +26,7 @@ A modern, real-time multiplayer tic-tac-toe game built with React, Node.js, and 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/theogdz/tic-tac-toe-game.git
    cd tic-tac-toe-game
    ```
 
